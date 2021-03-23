@@ -19,3 +19,4 @@ int main() {
     printf("Liczba binarna to: %d\n", dec_to_bin(dec));
     return 0;
 }
+
